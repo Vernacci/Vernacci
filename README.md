@@ -3,6 +3,7 @@
 
 
 ![Vernacci GitHub stats](https://github-readme-stats.vercel.app/api?username=Vernacci&show_icons=true&theme=blueberry)
+[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vernacci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologies i use:
 
