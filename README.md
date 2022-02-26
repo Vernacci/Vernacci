@@ -1,12 +1,12 @@
 # Hey there! I'm Victor Vernasqui👋
-###     I'm a Brazillian Developer looking to get the most out of life by doing what i love
+### I'm a Brazillian Developer looking to get the most out of life by doing what i love
 
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vernacci&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vernacci&layout=compact&langs_count=7&theme=blueberry"/>
 </div>  
- Tecnologies i use:
+ ## Tecnologies i use:
 
 <div style="display: inline_block"><br/> 
 <img  allign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
